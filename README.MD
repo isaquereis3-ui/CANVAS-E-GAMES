@@ -31,10 +31,11 @@ ESC : Voltar do “Sobre” para o menu.
 
  ## Como Jogar
 
-Abra o index.html em um navegador compatível.
+Baixe os arquivos e execute no P5.js
 
 Pressione ENTER para iniciar.
 
 Controle a nave, elimine inimigos e evite colisões.
+
 
 Sobrevive com suas 3 vidas e tente bater o recorde!
