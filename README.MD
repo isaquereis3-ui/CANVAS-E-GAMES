@@ -39,3 +39,8 @@ Controle a nave, elimine inimigos e evite colisões.
 
 
 Sobrevive com suas 3 vidas e tente bater o recorde!
+
+
+Feito por Isaque dos Reis Jess
+
+Link :
